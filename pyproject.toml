@@ -1,0 +1,5 @@
+[project]
+name = "python2-simple"
+version = "0.1.0"
+description = "A simple Python 2 project"
+requires-python = ">=2,<3"
